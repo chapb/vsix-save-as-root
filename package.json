@@ -3,16 +3,16 @@
 	"displayName": "Save as Root in Remote - SSH",
 	"description": "Edit configuration files with root privileges while using the Remote - SSH extension",
 	"version": "1.8.0",
-	"publisher": "yy0931",
+	"publisher": "chapb",
 	"engines": {
 		"vscode": "^1.57.0"
 	},
 	"repository": {
-		"url": "https://github.com/yy0931/save-as-root",
+		"url": "https://github.com/chapb/vsix-save-as-root",
 		"type": "git"
 	},
 	"bugs": {
-		"url": "https://github.com/yy0931/save-as-root/issues"
+		"url": "https://github.com/chapb/vsix-save-as-root/issues"
 	},
 	"icon": "icon.png",
 	"categories": [
